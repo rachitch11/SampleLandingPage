@@ -1,2 +1,2 @@
 # SampleLandingPage
-This is a smaple landing page
+This is a simple  landing page  with html and css
